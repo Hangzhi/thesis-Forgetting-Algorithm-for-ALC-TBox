@@ -1,4 +1,4 @@
-# Refinement of Forgetting Tool for Creating Views of $\mathcal{ALC-TBox}$ and Its Empirical Comparison
+# Refinement of Forgetting Tool for Creating Views of ALC-TBox and Its Empirical Comparison
 
 
 
